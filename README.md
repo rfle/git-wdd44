@@ -15,7 +15,7 @@ Auch ein bisschen *Markdown* im Unterricht. Hat noch **niemanden** geschadet.
 echo 'Ja genau';
 ?>
 ```
+Weitere Beispiele in der index.php.
 
 ```js
-console.log('win');
-```
+console.log('win'); ```
